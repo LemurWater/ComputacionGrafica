@@ -1,1 +1,4 @@
-# ComputacionGrafica
+computacion-grafica-git 💻🎨
+
+# Computación Gráfica
+
