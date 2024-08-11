@@ -1,0 +1,865 @@
+fileFormatVersion: 2
+guid: 4aaab46bc1ffd4392a526ccb0e03af26
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultMaterial.005
+    second: {fileID: 2100000, guid: c16b869390a98e87ea09dc5a792b8268, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Diana :Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Diana :Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: diana(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 'Diana : Body'
+      parentName: diana(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9088712, y: 0.9088712, z: 0.9088712}
+    - name: Diana :Hips
+      parentName: diana(Clone)
+      position: {x: -0.0000004833732, y: 0.97636366, z: -0.0056481264}
+      rotation: {x: 0.000000043850584, y: -0.00000019015408, z: 0.0000064179917, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :Spine
+      parentName: Diana :Hips
+      position: {x: -0, y: 0.0703421, z: -0.0051585482}
+      rotation: {x: -0.036593914, y: 0.00000042488753, z: -0.000006406736, w: 0.9993302}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :Spine1
+      parentName: Diana :Spine
+      position: {x: -0, y: 0.082286194, z: -3.7182122e-11}
+      rotation: {x: 6.2576484e-26, y: -9.240801e-14, z: 6.77176e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :Spine2
+      parentName: Diana :Spine1
+      position: {x: -0, y: 0.094041385, z: -2.3631883e-10}
+      rotation: {x: -0, y: -6.3108872e-30, z: -1.3410635e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftShoulder
+      parentName: Diana :Spine2
+      position: {x: -0.045375474, y: 0.10496865, z: 0.00007892629}
+      rotation: {x: 0.46978232, y: -0.52807695, z: 0.46357566, w: 0.53435653}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftArm
+      parentName: Diana :LeftShoulder
+      position: {x: 1.4439676e-11, y: 0.09281452, z: 7.687248e-11}
+      rotation: {x: 0.064810306, y: -0.064512394, z: 0.0020595186, w: 0.995808}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftForeArm
+      parentName: Diana :LeftArm
+      position: {x: 4.2877132e-11, y: 0.23588948, z: 0.0000000056083826}
+      rotation: {x: 0.0000002413367, y: 0.010988034, z: -0.00000009189849, w: 0.9999396}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHand
+      parentName: Diana :LeftForeArm
+      position: {x: -0.0000000029670777, y: 0.19764526, z: 0.0000000026873503}
+      rotation: {x: 0.0036728794, y: 0.035308693, z: 0.03737016, w: 0.99867076}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandMiddle1
+      parentName: Diana :LeftHand
+      position: {x: 0.008784877, y: 0.116959415, z: -0.0005505461}
+      rotation: {x: -0.0023995172, y: -0.0013300484, z: -0.038099572, w: 0.9992702}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandMiddle2
+      parentName: Diana :LeftHandMiddle1
+      position: {x: -0.000028335573, y: 0.022331996, z: -7.101381e-10}
+      rotation: {x: 0.00000043971897, y: -0.00011079193, z: -0.0015727348, w: 0.99999875}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandMiddle3
+      parentName: Diana :LeftHandMiddle2
+      position: {x: -0.000089855304, y: 0.020458411, z: 6.201125e-10}
+      rotation: {x: 0.00000017777836, y: -0.00008615749, z: 0.00563078, w: 0.99998415}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandMiddle4
+      parentName: Diana :LeftHandMiddle3
+      position: {x: 0.000118191085, y: 0.017195463, z: 4.6029427e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandPinky1
+      parentName: Diana :LeftHand
+      position: {x: -0.026472343, y: 0.08631799, z: -0.0032821356}
+      rotation: {x: 0.036618344, y: 0.89550275, z: -0.016711822, w: 0.4432321}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandPinky2
+      parentName: Diana :LeftHandPinky1
+      position: {x: 0.00023623512, y: 0.02596171, z: 9.070999e-10}
+      rotation: {x: 0.0000016185526, y: 0.00042306964, z: -0.004380896, w: 0.99999034}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandPinky3
+      parentName: Diana :LeftHandPinky2
+      position: {x: 0.000006746432, y: 0.021343233, z: 1.2357233e-10}
+      rotation: {x: 0.00000015042528, y: 0.0000062886083, z: -0.0059068114, w: 0.9999826}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandPinky4
+      parentName: Diana :LeftHandPinky3
+      position: {x: -0.00024298129, y: 0.021155562, z: -2.0314146e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandRing1
+      parentName: Diana :LeftHand
+      position: {x: -0.007518117, y: 0.10721821, z: 0.0009887704}
+      rotation: {x: -0.0022982045, y: 0.0013886867, z: -0.03726933, w: 0.9993017}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandRing2
+      parentName: Diana :LeftHandRing1
+      position: {x: 0.0000075547446, y: 0.018979885, z: 0.0000000010351897}
+      rotation: {x: 0.0000007456106, y: -0.00012724524, z: -0.0031336811, w: 0.9999951}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandRing3
+      parentName: Diana :LeftHandRing2
+      position: {x: -0.00011276661, y: 0.019330088, z: -2.453578e-10}
+      rotation: {x: -0.0000002462762, y: -0.0000021973442, z: 0.0058696126, w: 0.9999828}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandRing4
+      parentName: Diana :LeftHandRing3
+      position: {x: 0.00010521212, y: 0.017817348, z: -2.7201423e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandIndex1
+      parentName: Diana :LeftHand
+      position: {x: 0.025205586, y: 0.10935863, z: -0.001103554}
+      rotation: {x: -0.0024175113, y: -0.0018307111, z: -0.038197234, w: 0.9992656}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandIndex2
+      parentName: Diana :LeftHandIndex1
+      position: {x: -0.000038490773, y: 0.026200337, z: 1.7949489e-10}
+      rotation: {x: 0.00000017405483, y: -0.000021669746, z: -0.0007220524, w: 0.99999976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandIndex3
+      parentName: Diana :LeftHandIndex2
+      position: {x: -0.000071513845, y: 0.024872722, z: -8.168416e-10}
+      rotation: {x: -0.000000017961183, y: -0.00006492464, z: 0.0039622663, w: 0.9999922}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandIndex4
+      parentName: Diana :LeftHandIndex3
+      position: {x: 0.00011000706, y: 0.021869123, z: 9.783658e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandThumb1
+      parentName: Diana :LeftHand
+      position: {x: 0.024174096, y: 0.055113003, z: 0.0014197534}
+      rotation: {x: 0.09018226, y: 0.021089425, z: -0.38497856, w: 0.91826683}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandThumb2
+      parentName: Diana :LeftHandThumb1
+      position: {x: -0.00069720094, y: 0.048153706, z: -0.0000000016207861}
+      rotation: {x: -0.0000016904899, y: 0.00011441428, z: 0.0014079668, w: 0.99999905}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandThumb3
+      parentName: Diana :LeftHandThumb2
+      position: {x: -0.00042087384, y: 0.036109608, z: -0.0000000011362855}
+      rotation: {x: 0.0000028356317, y: 0.00018908846, z: 0.025547175, w: 0.9996736}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftHandThumb4
+      parentName: Diana :LeftHandThumb3
+      position: {x: 0.0011180799, y: 0.02833068, z: 3.525106e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :Neck
+      parentName: Diana :Spine2
+      position: {x: -0, y: 0.10579649, z: -0.000000002667539}
+      rotation: {x: 0.036593866, y: -1.2219866e-20, z: -2.7570692e-20, w: 0.9993302}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :Head
+      parentName: Diana :Neck
+      position: {x: -0, y: 0.073112026, z: 0.028902855}
+      rotation: {x: 0, y: 0, z: 4.86248e-40, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :HeadTop_End
+      parentName: Diana :Head
+      position: {x: -0, y: 0.074098356, z: 0.029292747}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightShoulder
+      parentName: Diana :Spine2
+      position: {x: 0.045375474, y: 0.10498902, z: -0.00019886262}
+      rotation: {x: 0.46805033, y: 0.5295607, z: -0.46507394, w: 0.53310466}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightArm
+      parentName: Diana :RightShoulder
+      position: {x: 2.5547217e-11, y: 0.09281452, z: 7.3927135e-11}
+      rotation: {x: 0.06484312, y: 0.058001187, z: 0.0004909379, w: 0.9962083}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightForeArm
+      parentName: Diana :RightArm
+      position: {x: -2.7477468e-11, y: 0.23584779, z: 0.0000000024811913}
+      rotation: {x: 0.00000029302538, y: -0.010449617, z: -0.00000008585295, w: 0.9999454}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHand
+      parentName: Diana :RightForeArm
+      position: {x: -0.0000000024196696, y: 0.19752213, z: -0.0000000042837067}
+      rotation: {x: 0.006396268, y: -0.032815713, z: -0.03862225, w: 0.9986944}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandThumb1
+      parentName: Diana :RightHand
+      position: {x: -0.023383366, y: 0.05488848, z: 0.0013770143}
+      rotation: {x: 0.091161646, y: -0.022266487, z: 0.38507777, w: 0.9181007}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandThumb2
+      parentName: Diana :RightHandThumb1
+      position: {x: 0.000663866, y: 0.047737483, z: -0.000000002266843}
+      rotation: {x: 0.00000033760304, y: 0.000028758144, z: -0.01768467, w: 0.99984366}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandThumb3
+      parentName: Diana :RightHandThumb2
+      position: {x: -0.0007752832, y: 0.036103956, z: 2.0412841e-10}
+      rotation: {x: -0.0000013446974, y: 0.00013045495, z: 0.012604118, w: 0.99992055}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandThumb4
+      parentName: Diana :RightHandThumb3
+      position: {x: 0.00011141316, y: 0.029628247, z: 0.0000000017426758}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandMiddle1
+      parentName: Diana :RightHand
+      position: {x: -0.008822786, y: 0.11340426, z: -0.0011647056}
+      rotation: {x: -0.005184963, y: 0.0016122356, z: 0.040200323, w: 0.9991769}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandMiddle2
+      parentName: Diana :RightHandMiddle1
+      position: {x: 0.00006309109, y: 0.022523839, z: -8.699069e-10}
+      rotation: {x: 0.000000024800892, y: 0.00010468177, z: 0.00071603485, w: 0.99999976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandMiddle3
+      parentName: Diana :RightHandMiddle2
+      position: {x: 0.00009180961, y: 0.021755192, z: 4.3563617e-10}
+      rotation: {x: -0.00000077440285, y: 0.00020914146, z: -0.00616261, w: 0.999981}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandMiddle4
+      parentName: Diana :RightHandMiddle3
+      position: {x: -0.00015490317, y: 0.019144055, z: 3.0409694e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandPinky1
+      parentName: Diana :RightHand
+      position: {x: 0.025440723, y: 0.087269716, z: -0.0032939427}
+      rotation: {x: -0.04069373, y: 0.9047352, z: -0.017480427, w: -0.42366567}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandPinky2
+      parentName: Diana :RightHandPinky1
+      position: {x: -0.00043323362, y: 0.025398599, z: -9.348942e-10}
+      rotation: {x: 0.0000013271846, y: -0.00019288994, z: 0.010916704, w: 0.9999404}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandPinky3
+      parentName: Diana :RightHandPinky2
+      position: {x: 0.00010292738, y: 0.021513531, z: 3.208187e-10}
+      rotation: {x: 0.000008326733, y: 0.00076282717, z: 0.0056723095, w: 0.9999836}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandPinky4
+      parentName: Diana :RightHandPinky3
+      position: {x: 0.0003303052, y: 0.020453915, z: -7.618709e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandIndex1
+      parentName: Diana :RightHand
+      position: {x: -0.024850411, y: 0.10903491, z: -0.00044320233}
+      rotation: {x: -0.0051727165, y: 0.0012493957, z: 0.03917034, w: 0.9992184}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandIndex2
+      parentName: Diana :RightHandIndex1
+      position: {x: 0.000019037627, y: 0.025962422, z: -5.165583e-10}
+      rotation: {x: 0.000000041483272, y: 0.0000037096602, z: 0.00013081732, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandIndex3
+      parentName: Diana :RightHandIndex2
+      position: {x: 0.000024626706, y: 0.02516218, z: 5.922976e-10}
+      rotation: {x: -0.00000041855304, y: 0.00001715365, z: -0.0014892519, w: 0.9999989}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandIndex4
+      parentName: Diana :RightHandIndex3
+      position: {x: -0.000043661734, y: 0.022162702, z: -0.0000000010232779}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandRing1
+      parentName: Diana :RightHand
+      position: {x: 0.00823247, y: 0.10915111, z: 0.0007474697}
+      rotation: {x: -0.0050812857, y: -0.0011329817, z: 0.03907962, w: 0.9992226}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandRing2
+      parentName: Diana :RightHandRing1
+      position: {x: 0.0000099625295, y: 0.019052599, z: -2.7635564e-11}
+      rotation: {x: 0.00000018270997, y: 0.00016496677, z: 0.0025441917, w: 0.9999968}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandRing3
+      parentName: Diana :RightHandRing2
+      position: {x: 0.00010543085, y: 0.018705891, z: -7.546532e-12}
+      rotation: {x: -0.00000020513255, y: 0.00009070425, z: -0.0062937154, w: 0.9999802}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightHandRing4
+      parentName: Diana :RightHandRing3
+      position: {x: -0.00011539327, y: 0.016489437, z: 4.1948167e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightUpLeg
+      parentName: Diana :Hips
+      position: {x: 0.096231535, y: -0.03914467, z: 0.0035743974}
+      rotation: {x: -0.000009986947, y: 0.0025207703, z: 0.99999654, w: 0.00073679094}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightLeg
+      parentName: Diana :RightUpLeg
+      position: {x: 5.666041e-10, y: 0.44556174, z: 1.236331e-12}
+      rotation: {x: -0.03616183, y: -0.000051211708, z: 0.0015318701, w: 0.9993448}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightFoot
+      parentName: Diana :RightLeg
+      position: {x: -0.0000000010719526, y: 0.40752056, z: -7.9443274e-10}
+      rotation: {x: 0.5398239, y: 0.06842511, z: 0.017379923, w: 0.83881235}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightToeBase
+      parentName: Diana :RightFoot
+      position: {x: 2.2724815e-10, y: 0.15076801, z: 0.0000000011637886}
+      rotation: {x: 0.22430232, y: -0.09697688, z: 0.022438247, w: 0.9694228}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :RightToe_End
+      parentName: Diana :RightToeBase
+      position: {x: 3.368612e-11, y: 0.060642514, z: 8.390412e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftUpLeg
+      parentName: Diana :Hips
+      position: {x: -0.096231535, y: -0.03914467, z: 0.0048891664}
+      rotation: {x: 0.00018225629, y: 0.00020761351, z: 0.9999997, w: -0.0007237518}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftLeg
+      parentName: Diana :LeftUpLeg
+      position: {x: 6.1565864e-10, y: 0.44556442, z: 4.2053427e-11}
+      rotation: {x: -0.032935455, y: 0.00004697916, z: -0.0015205859, w: 0.99945635}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftFoot
+      parentName: Diana :LeftLeg
+      position: {x: 0.0000000016330395, y: 0.4074613, z: 7.6925827e-10}
+      rotation: {x: 0.5409482, y: -0.067988254, z: -0.017615808, w: 0.8381184}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftToeBase
+      parentName: Diana :LeftFoot
+      position: {x: 4.425757e-10, y: 0.15202937, z: 0.0000000015149666}
+      rotation: {x: 0.22244044, y: 0.09698608, z: -0.022244168, w: 0.96985525}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Diana :LeftToe_End
+      parentName: Diana :LeftToeBase
+      position: {x: -3.903402e-12, y: 0.061581038, z: 4.7546387e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
